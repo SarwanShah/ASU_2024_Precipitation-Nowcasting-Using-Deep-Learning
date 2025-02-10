@@ -12,7 +12,7 @@ addressing the limitation posed radar’s limited global
 coverage, while focusing on the region of Sindh, Pakistan
 — a region with minimal meteorological infrastructure.
 Thus, by contributing towards the improvement of global
-nowcasting capabilities this work addresses critical forecasting needs heightened by climate change.
+nowcasting capabilities this work addresses critical forecasting needs heightened by climate change.
 
 
 # Poster
