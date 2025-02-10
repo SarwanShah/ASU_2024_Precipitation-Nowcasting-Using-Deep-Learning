@@ -3,7 +3,7 @@
 Precipitation nowcasting for short-term
 storm forecasting (0–6 hours) is essential for timely
 severe weather warnings. Traditional methods such as
-numerical weather prediction (NWP) and radar extrapolation, often lack accuracy at short scales and are
+numerical weather prediction (NWP) and radar extrapolation, often lack accuracy at short scales and are
 computationally intensive. Recent deep learning models,
 such as ConvLSTM and TrajGRU have offered promising
 advances by capturing complex spatiotemporal dynamics.
