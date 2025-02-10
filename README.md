@@ -14,7 +14,7 @@ coverage, while focusing on the region of Sindh, Pakistan
 Thus, by contributing towards the improvement of global
 nowcasting capabilities this work addresses critical forecasting needs heightened by climate change.
 
-**REPORT**: [Final_Report.pdf](Paper/Final_Report.pdf)  
+**REPORT**: [Final_Report.pdf](Paper/EEE598_Final_Paper.pdf)  
 
 
 # Poster
