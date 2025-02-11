@@ -18,7 +18,7 @@ nowcasting capabilities this work addresses critical forecasting needs heightene
 
 **Sample Test Result:**
 
-<img src="Sample%20Test%20Result%20Gifs/1_ConvLSTM_2hr.gif" alt="Sample Test Result GIF" width="500">
+<img src="Sample%20Test%20Result%20Gifs/1_ConvLSTM_2hr.gif" alt="Sample Test Result GIF" width="800">
 
 
 # Poster
