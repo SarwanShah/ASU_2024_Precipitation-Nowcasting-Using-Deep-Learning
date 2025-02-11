@@ -16,6 +16,9 @@ nowcasting capabilities this work addresses critical forecasting needs heightene
 
 **REPORT**: [Final_Report.pdf](Paper/EEE598_Final_Paper.pdf)  
 
+**Sample Test Result:**
+<img src="Sample%20Test%20Result%20Gifs/1_ConvLSTM_2hr.gif" alt="Sample Test Result GIF" width="400">
+
 
 # Poster
 ![Poster Presentation](Poster%20Presentation/poster.png)
