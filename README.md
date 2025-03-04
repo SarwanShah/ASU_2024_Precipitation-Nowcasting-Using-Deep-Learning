@@ -1,3 +1,7 @@
+# Summary
+
+Implemented state-of-the-art ConvLSTM and TrajGRU models for precipitation nowcasting, leveraging satellite data with higher spatial (4 km x 4 km) and temporal resolution (15 min) . Created datasets of 1,560 and 779 sequences to train and test. Achieved RMSE of 3.69 mm/hr with 2-hour lead time and RMSE of 8.06 mm/hr with 4-hour lead-time
+
 # Abstract
 
 Precipitation nowcasting for short-term
